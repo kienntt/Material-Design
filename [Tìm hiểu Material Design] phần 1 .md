@@ -48,7 +48,7 @@ Khi một bề mặt thay đổi hình dạng hoặc tỷ lệ, nhưng độ cao
 
 Khi một bề mặt thay đổi độ cao của nó, bóng của nó sẽ thay đổi.
 
-### Các thuộc tính của material
+### 3. Các thuộc tính của material
   Material có đặc tính nhất định không thay đổi và những trạng thái  vốn có. Hiểu được những đặc tính này sẽ giúp cho bạn thao tác các material theo một cách thức phù hợp với Material Design.
   
   
