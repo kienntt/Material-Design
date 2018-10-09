@@ -16,12 +16,6 @@
 #### Ánh sáng
 Trong môi trường material, ánh sáng ảo chiếu sáng màn hình. Ánh sáng chính tạo bóng đổ sắc nét hơn, được gọi là bóng chính. Ánh sáng xung quanh xuất hiện từ tất cả các góc để tạo ra các bóng mềm, khuếch tán, được gọi là bóng môi trường xung quanh.Trong sự phát triển Android, bóng xảy ra khi nguồn sáng bị chặn bởi các tấm material tại các vị trí khác nhau dọc theo trục z. Trên trang web, bóng được vẽ bởi các thao tác chỉ trên trục Y. Ví dụ dưới đây cho thấy các tấm thẻ với chiều cao 6dp.
 
-Read more at: http://rgb.vn/ideas/explore/material-design-ky-2-material-la-gi
-Copyright © RGB.vn
-
-Read more at: http://rgb.vn/ideas/explore/material-design-ky-2-material-la-gi
-Copyright © RGB.vn
-
 <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1OUh2ErnYqT5D-NLaoGT7gE6UJoRc0E_x%2Flightshadows-1.png" width="350" alt="accessibility text">
 
 Bóng được đổ bằng ánh sáng chính
