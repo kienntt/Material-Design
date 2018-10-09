@@ -49,8 +49,55 @@ Khi một bề mặt thay đổi hình dạng hoặc tỷ lệ, nhưng độ cao
 Khi một bề mặt thay đổi độ cao của nó, bóng của nó sẽ thay đổi.
 
 ### 3. Các thuộc tính của material
-  Material có đặc tính nhất định không thay đổi và những trạng thái  vốn có. Hiểu được những đặc tính này sẽ giúp cho bạn thao tác các material theo một cách thức phù hợp với Material Design.
+  Material có đặc tính nhất định không thay đổi và những trạng thái vốn có. Hiểu được những đặc tính này sẽ giúp cho bạn thao tác các material theo một cách thức phù hợp với Material Design.
+
+#### Nội dung
+  Nội dung được hiển thị dưới mọi hình dạng và màu sắc trên Material. Nội dung không thêm độ dày cho material.
   
+  [![Watch the video](https://j.gifs.com/kZpA96.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1xQcc7grFo-KO3yr2ba9XAmKmKasBNwa6%2Fmaterialcontent-shapecolor.mp4)
   
+  Vật liệu có thể hiển thị bất kỳ hình dạng và màu sắc nào. Nội dung có thể hoạt động độc lập với Material, nhưng bị giới hạn trong giới hạn của Material
+
+#### Thuộc tính vật lý
+  Material là vật rắn . 
   
+  <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1bQO9zhMloD3HtBikFXTYxmTLJ_zFRiIV%2Fmaterialsurfaceproperties-do-physical.png" width="350" alt="accessibility text">
+  
+  Sự kiện đầu vào chỉ ảnh hưởng đến bề mặt của material.
+
+<img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1Rwp75SKdPmArFS5r8_WQsfAwJYzFsaYc%2Fmaterialsurfaceproperties-dont-passthrough.png" width="350" alt="accessibility text">
+
+  Các sự kiện đầu vào không thể chuyển qua Material.
+  
+  <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-SlpSMkpDdVJKSEE%2Fwhatismaterial-properties-physical5.png" width="300" alt="accessibility text">
+  <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-OWpqdE16bkt5LWc%2Fwhatismaterial-properties-physical6.png" width="300" alt="accessibility text">
+  Nhiều phần tử Material không thể cùng một lúc trong không gian.
+  
+  [![Watch the video](https://j.gifs.com/32MzlO.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1ZFe2hECnZAtL0ZdtClzphYkGVT09jLO-%2Fmaterialproperties-clipping.mp4)
+  
+Vật liệu không thể đi qua Vật liệu khác. Ví dụ, một bề mặt Vật liệu không thể đi qua bề mặt Vật liệu khác khi thay đổi độ cao.
+
+[![Watch the video](https://j.gifs.com/MQykQ5.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F13eGrsIXeBzDU7l_RFcHotsN8rpWd7kYQ%2Fmaterialsurfaceproperties-plane.mp4)
+
+Material là một "vật chất vô định hình". Nó có thể thay đổi hình dáng kích thước
+
+[![Watch the video](https://j.gifs.com/32Mz2x.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F19__QV-l261owIymJUFARLcV_uyBgwPDj%2Fmaterialproperties-join.mp4)
+
+Material có thể tách thành nhiều phần, cũng có thể gộp lại thành một.
+
+#### Chuyển động
+
+[![Watch the video](https://j.gifs.com/yrKqoP.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1EUy2L0M-LyeNIu24-9GUUP5xvpzj2rjv%2Fmaterialmovement-appear.mp4)
+
+Material có thể được sinh ra hoặc bị phá hủy một cách rất tự nhiên trong bất kì môi trường nào.
+
+[![Watch the video](https://j.gifs.com/N9zlLp.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F192Oe3mMnPtaY3S4AlkQWMRoqtIN6zz4w%2Fmaterialmovement-anyaxis.mp4)
+
+Material có thể di chuyển dọc theo bất kì trục nào.
+
+[![Watch the video](https://j.gifs.com/32MzQx.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F11Gpm653O4qC39MSQAyv9sWn16Bm6f4h6%2Fmaterialmovement-z-interaction.mp4)
+
+Sự chuyển động của trục z tiêu biểu cho sự tương tác của người dùng với material
+
+
 
