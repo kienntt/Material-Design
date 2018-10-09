@@ -31,7 +31,7 @@ Bóng được đổ bằng ánh sáng chính và ánh áng xung quanh
 #### Đổ bóng
 Bởi vì bóng thể hiện mức độ cao giữa các bề mặt, chúng phải được sử dụng nhất quán trong toàn bộ sản phẩm của bạn.
 
-<img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1FjW7ZT_MD39eQlLf2hy_hKwCvXmRe4qo%2Fshadowprinciples-do-1.png" width="350" alt="accessibility text">
+<img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1FjW7ZT_MD39eQlLf2hy_hKwCvXmRe4qo%2Fshadowprinciples-do-1.png"  alt="accessibility text">
 
 ### Chuyển động có ý nghĩa
         
