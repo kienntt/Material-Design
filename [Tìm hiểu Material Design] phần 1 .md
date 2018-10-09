@@ -39,8 +39,18 @@ Kích thước bóng phản ánh độ cao. Các bề mặt ở độ cao cao h�
 
 #### Bóng và chuyển động 
 Bóng cung cấp các dấu hiệu hữu ích về hướng di chuyển của bề mặt và khoảng cách giữa các bề mặt đang tăng hay giảm.
-<video src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8wSqcLwbhFuNTI1RWpwa1VwV1E%2Fshadowsmotion-do-1a.mp4" width="320" height="200" controls preload></video>
-### Chuyển động có ý nghĩa
-        
-  <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1kVVLIES2HDnnmqXgAvglbAK8a-oVEEh0%2Fintro-illo-motion.png">
+
+[![Watch the video](https://j.gifs.com/XoNZyV.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8wSqcLwbhFuNTI1RWpwa1VwV1E%2Fshadowsmotion-do-1a.mp4)
+
+Khi một bề mặt thay đổi hình dạng hoặc tỷ lệ, nhưng độ cao của nó vẫn giữ nguyên, bóng của nó sẽ không thay đổi.
+
+[![Watch the video](https://j.gifs.com/4RN1lJ.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8wSqcLwbhFuYmFPT3hZVjNWREU%2Fshadowsmotion-dont-1a.mp4)
+
+Khi một bề mặt thay đổi độ cao của nó, bóng của nó sẽ thay đổi.
+
+### Các thuộc tính của material
+  Material có đặc tính nhất định không thay đổi và những trạng thái  vốn có. Hiểu được những đặc tính này sẽ giúp cho bạn thao tác các material theo một cách thức phù hợp với Material Design.
+  
+  
+  
 
