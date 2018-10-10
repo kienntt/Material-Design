@@ -75,7 +75,7 @@ Khi một bề mặt thay đổi độ cao của nó, bóng của nó sẽ thay 
   
   [![Watch the video](https://j.gifs.com/32MzlO.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1ZFe2hECnZAtL0ZdtClzphYkGVT09jLO-%2Fmaterialproperties-clipping.mp4)
   
-Vật liệu không thể đi qua Vật liệu khác. Ví dụ, một bề mặt Vật liệu không thể đi qua bề mặt Vật liệu khác khi thay đổi độ cao.
+Vật liệu không thể đi qua vật liệu khác. Ví dụ, một bề mặt vật liệu không thể đi qua bề mặt Vật liệu khác khi thay đổi độ cao.
 
 [![Watch the video](https://j.gifs.com/MQykQ5.gif)](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F13eGrsIXeBzDU7l_RFcHotsN8rpWd7kYQ%2Fmaterialsurfaceproperties-plane.mp4)
 
