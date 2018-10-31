@@ -9,6 +9,6 @@ Một ví dụ về bảng màu chính và phụ
 <ul>
   <li>1. Chỉ màu chính</li>
   <li>2. Chỉ màu phụ</li>
-  <li>3. Biến thể ánh sáng và bóng tối</li>
-  
+  <li>3. Biến thể ánh sáng và bóng tối</li> 
  </ul>
+##  Màu chính
