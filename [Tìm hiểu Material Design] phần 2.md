@@ -6,9 +6,10 @@
   
 <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1G9utlx7O2-lxBVs5e3BbWq7kbAdXMwOE%2Fcolor-colorsystem-usagepalettes-1.png">
 Một ví dụ về bảng màu chính và phụ
-<ul>
-  <li>1. Chỉ màu chính</li>
-  <li>2. Chỉ màu phụ</li>
-  <li>3. Biến thể ánh sáng và bóng tối</li> 
- </ul>
+
+  1. Chỉ màu chính
+  2. Chỉ màu phụ
+ 3. Biến thể ánh sáng và bóng tối
+
+
 ##  Màu chính
