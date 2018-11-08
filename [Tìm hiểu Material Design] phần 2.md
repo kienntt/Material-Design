@@ -1,6 +1,6 @@
 # Tìm hiểu Material Design phần 2
   Tiếp nối phần 1 về những nguyên tắc căn bản trong Material Design, phần 2 sẽ nó về style guide trong Material, bao gồm màu sắc, icon, typography,...
-## Màu sắc và bảng màu 
+## 1.Màu sắc và bảng màu 
   Hệ thống màu của Material sử dụng cách tiếp cận có tổ chức để áp dụng màu cho giao diện người dùng của bạn. Trong hệ thống này, màu chính và màu phụ thường được chọn để thể hiện thương hiệu của bạn. Các biến thể tối và ánh sáng của mỗi màu có thể được áp dụng cho giao diện người dùng của bạn theo các cách khác nhau. <br>
   Bảng màu bắt đầu từ màu chủ đạo và tiếp nối bởi dây màu để tạo nên một palette hoàn chỉnh cho Android, Web và ngay cả iOS. Google khuyến khích bạn nên sử dụng các mã màu 500 làm màu chính trong ứng dụng, còn lại là điểm nhấn.Tất cả màu sắc được thiết kế để đặt hài hòa với nhau.
   
@@ -50,3 +50,25 @@ Một ví dụ về bảng màu chính và phụ :
 Để thể hiện mức độ quan trọng và thứ tự thông tin, bạn nên sử dụng những gam màu xám khác nhau dựa trên giá trị alpha. Giá trị alpha tiêu chuẩn cho text trên nền trắng là 0.87 cho màu đen (#000000). Đối với những đoạn text ít quan trọng hơn, bạn có thể sử dụng giá trị alpha là 0.54 (#000000).
 
 <img src="https://img.idesign.vn/650x-/2015/10/black.jpg">
+
+## 2. Typogaraphy
+  Kể từ Android Ice Scream Sandwich, Google đã sử dụng font Roboto. Đây vẫn tiếp tục là tiêu chuẩn cho những ứng dụng chạy trên nền tảng của hãng.
+  ### Font weight
+  Roboto có 6 kiểu font: Thin, Light, Regular, Medium, Bold, Black tương ứng theo thứ tự từ mảnh nhất đến đậm nhất.
+  ### Typography style
+  Quá nhiều style và kích thước có thể làm hỏng sự cân bằng trong giao diện. Số lượng kích thước có thể đi cùng một cách hài hòa.
+
+Tất nhiên, màu sắc nên đạt độ tương phản đủ để đọc dễ dàng. Quá ít sẽ làm mờ nội dung nhưng quá nhiều sẽ lại làm cho nội dung trở nên chói sáng và nhức mắt khi đọc. Hãy điều chỉnh và nhìn thật lâu cũng như nhờ đồng nghiệp nhìn thật lâu cho đến khi bạn tìm thấy độ tương phản giúp người dùng cảm thấy dễ chịu nhất.
+
+<img src="https://img.idesign.vn/650x-/2015/10/typo01.jpg">
+
+  ### Độ dài của dòng
+  Độ dài tối ưu cho trải nghiệm đọc một đoạn văn trên màn hình là khoảng 60 kí tự/dòng. Đây là yếu tố vô hình nhưng rất quan trọng đối với text.
+  
+  <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1XJOxoakBnzdtPjP_jW3CiE2IW4KEv1TO%2Freadability-ideal-linelength.png">
+  
+  Đối với một dòng văn bản quá dài, người dùng sẽ khó có thể tìm được điểm bắt đầu dòng tiếp theo cũng như có được sự tập trung cao. Dài không phải là điều xấu nếu bạn muốn người dùng đọc lướt một thông tin. Người dùng sẽ tự điều chỉnh theo phương pháp đọc keyword nếu dòng văn bản dài. Tuy nhiên, hãy cố gắng giới hạn dưới 90 kí tự/dòng.
+
+Một dòng văn bản quá ngắn, ngược lại, khiến người dùng phải di chuyển mắt nhiều hơn khi phải liên tục quay về đầu dòng. Một dòng văn bản quá ngắn có thể khiến người dùng cảm thấy áp lực và bỏ qua những chữ cuối cùng.
+  
+
