@@ -38,7 +38,10 @@ Một ví dụ về bảng màu chính và phụ :
  Thanh ứng dụng trên và dưới sử dụng màu chính của ứng dụng. Thanh hệ thống có thể sử dụng biến thể màu tối hoặc sáng của màu chính để tách nội dung hệ thống khỏi nội dung trên thanh ứng dụng. Top bars sử dụng gam màu chính với mã màu 500 trong các bảng màu. Thanh hệ thống nên tối hơn một chút, khoảng mã 700.
  
  <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F14-9xXVeT33twoPmcfkgftEtP3QdRtDpm%2Fcolor-applyingcolorui-bars-differentiating-baseline.png">
- 
+  Để nhấn mạnh sự khác biệt giữa thanh ứng dụng và các bề mặt khác, hãy sử dụng màu phụ trên các thành phần lân cận .
+  <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1TeQ0O5CvwY52_xe4UTvJG_fqFfBR2F7d%2Fcolor-applyingcolorui-bars-differentiating-reply.png">
+  Màu chính (màu xanh 700) được sử dụng trên thanh ứng dụng phía dưới này và màu phụ (màu cam 500) được sử dụng trên nút tác vụ nổi.
+  
  ### Sử dụng giá trị alpha với hệ màu RGBA
  Hệ màu RGBA được phát triển từ rgb(red, green, blue) thành một hệ màu đi kèm giá trị alpha rgba(red, green, blue, alpha). Giá trị alpha này được đánh số từ 0.0 đến 1.0, tương ứng với độ trong suốt (opacity) từ 0% đến 100%.
 
