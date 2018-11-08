@@ -41,9 +41,12 @@ Một ví dụ về bảng màu chính và phụ :
   Để nhấn mạnh sự khác biệt giữa thanh ứng dụng và các bề mặt khác, hãy sử dụng màu phụ trên các thành phần lân cận .
   
   <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1TeQ0O5CvwY52_xe4UTvJG_fqFfBR2F7d%2Fcolor-applyingcolorui-bars-differentiating-reply.png">
+  
   Màu chính (màu xanh 700) được sử dụng trên thanh ứng dụng phía dưới này và màu phụ (màu cam 500) được sử dụng trên nút tác vụ nổi.
   
  ### Sử dụng giá trị alpha với hệ màu RGBA
  Hệ màu RGBA được phát triển từ rgb(red, green, blue) thành một hệ màu đi kèm giá trị alpha rgba(red, green, blue, alpha). Giá trị alpha này được đánh số từ 0.0 đến 1.0, tương ứng với độ trong suốt (opacity) từ 0% đến 100%.
 
 Để thể hiện mức độ quan trọng và thứ tự thông tin, bạn nên sử dụng những gam màu xám khác nhau dựa trên giá trị alpha. Giá trị alpha tiêu chuẩn cho text trên nền trắng là 0.87 cho màu đen (#000000). Đối với những đoạn text ít quan trọng hơn, bạn có thể sử dụng giá trị alpha là 0.54 (#000000).
+
+<img src="https://img.idesign.vn/650x-/2015/10/black.jpg">
